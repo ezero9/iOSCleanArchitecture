@@ -1,0 +1,8 @@
+# RxSwift
+github "ReactiveX/RxSwift" == 4.4.2
+
+# Realm DB (TV Plugin)
+github "realm/realm-cocoa" == 3.14.1
+
+# Custom Log Manager
+github "CocoaLumberjack/CocoaLumberjack" == 3.5.2
