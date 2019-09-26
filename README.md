@@ -1,5 +1,5 @@
 # iOSCleanArchitecture
-iOS Clean Architecture with Swift.
+iOS Clean Architecture with Swift. (RxSwift)
 
 
 carthage update --platform iOS
